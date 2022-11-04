@@ -1,4 +1,5 @@
-![gotchas-git-github-banner-1](https://user-images.githubusercontent.com/106314383/199940763-2c4715c4-4490-4d76-80c6-306557ac56dd.png)
+![migrating-blog-banner-min](https://user-images.githubusercontent.com/106314383/199940076-6cc4d099-81a2-4d1f-910b-b5dcae80f684.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
