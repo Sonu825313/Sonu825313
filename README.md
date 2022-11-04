@@ -1,3 +1,5 @@
+![migrating-blog-banner-min](https://user-images.githubusercontent.com/106314383/199940076-6cc4d099-81a2-4d1f-910b-b5dcae80f684.jpg)
+
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/35318b_ed32b39faf8a4ff0bce9b919183a9e4b~mv2.gif">
