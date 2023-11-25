@@ -1,4 +1,4 @@
-![github-header-image (2)](https://user-images.githubusercontent.com/106314383/203931980-23b3e631-d2e5-4144-8af6-c9b3ffff5902.png)
+![github-header-image](https://github.com/Sonu825313/Sonu825313/assets/106314383/4a72ad25-dda0-4637-8872-868657ca89bd)
 
 
 <h1 align="center">Hi 👋, I'm Sonu kumar</h1>
