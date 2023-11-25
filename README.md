@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu825313&label=Profile%20views&color=0e75b6&style=flat" alt="sonu825313" /> </p>
 
-- 🔭 I’m currently working with **React js**
+- 🔭 I’m currently working with **Kotlin**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, Node.js**
+- 💬 Ask me about **to anything i'm happy to help.**
 
 - 📫 How to reach me **sonukumarraj1341998@gmail.com**
 
